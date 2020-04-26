@@ -8,7 +8,7 @@ static const Block blocks[] = {
 	//{"",	"torrent",	20,	7},
 	//{"",	"news",		0,	6},
 	 {"",	"memory",	10,	14},
-	 {"",	"disk /mnt",	10,	14},
+	 {"",	"sda6",	10,	14},
 	 {"",	"disk ~",	10,	14},
 	 {"",	"cpu",		10,	13},
 	/* {"",	"moonphase",	18000,	5}, */
