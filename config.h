@@ -10,7 +10,7 @@ static const Block blocks[] = {
 	 {"",	"memory",	10,	14},
 	 {"",	"sda6",	10,	14},
 	 {"",	"disk ~",	10,	14},
-	 {"",	"cpu",		10,	13},
+	 {"",	"nettraf",	3,	13},
 	/* {"",	"moonphase",	18000,	5}, */
 	{"",	"toggle mousestate",	0,	14},
 	{"",	"toggle audiostate",	0,	15},
