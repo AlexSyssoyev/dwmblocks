@@ -8,9 +8,9 @@ static const Block blocks[] = {
 	//{"",	"torrent",	20,	7},
 	//{"",	"news",		0,	6},
 	 {"",	"pacpackages",	10,	8},
+	 {"",	"news"	,	10,	6},
 	 {"",	"sda6",	10,	14},
 	 {"",	"disk ~",	10,	14},
-	 {"",	"news"	,	10,	6},
 	/* {"",	"moonphase",	18000,	5}, */
 	{"",	"toggle mousestate",	0,	14},
 	{"",	"toggle audiostate",	0,	15},
