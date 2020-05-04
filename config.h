@@ -11,6 +11,10 @@ static const Block blocks[] = {
 	 {"",	"news"	,	10,	6},
 	 {"",	"sda6",	10,	14},
 	 {"",	"disk ~",	10,	14},
+	/* {"",	"music",	0,	11}, */
+	/* {"",	"crypto",	0,	13}, */
+	/* {"",	"memory",	10,	14}, */
+	/* {"",	"cpu",		10,	13}, */
 	/* {"",	"moonphase",	18000,	5}, */
 	{"",	"toggle mousestate",	0,	14},
 	{"",	"toggle audiostate",	0,	15},
@@ -18,6 +22,8 @@ static const Block blocks[] = {
 	//{"",	"mailbox",	180,	12},
 	{"",	"volume",	1,	10},
 	//{"",	"battery | tr \'\n\' \' \'",	5,	3},
+	/* {"",	"nettraf",	1,	16}, */
+	{"",	"volume",	0,	10},
 	{"",	"clock",	60,	1},
 	{"",	"internet",	5,	4},
 	//{"",	"help-icon",	0,	15},
