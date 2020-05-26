@@ -15,11 +15,15 @@ static const Block blocks[] = {
 	 {"",	"disk ~",	10,	14},
 	/* {"",	"music",	0,	11}, */
 	/* {"",	"crypto",	0,	13}, */
-	/* {"",	"memory",	10,	14}, */
-	/* {"",	"cpu",		10,	13}, */
-	/* {"",	"moonphase",	18000,	5}, */
 	{"",	"toggle mousestate",	0,	14},
 	{"",	"toggle audiostate",	0,	15},
+	/* {"",	"price bat \"Basic Attention Token\" 🦁",	0,	20}, */
+	/* {"",	"price btc Bitcoin 💰",				0,	21}, */
+	/* {"",	"price lbc \"LBRY Token\" 📚",			0,	22}, */
+	/* {"",	"torrent",	20,	7}, */
+	/* {"",	"memory",	10,	14}, */
+	/* {"",	"cpu",		10,	18}, */
+	/* {"",	"moonphase",	18000,	17}, */
 	{"",	"weather",	18000,	5},
 	//{"",	"battery | tr \'\n\' \' \'",	5,	3},
 	/* {"",	"nettraf",	1,	16}, */
@@ -30,7 +34,7 @@ static const Block blocks[] = {
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
-static char delim = '|';
+static char delim = ' ';
 
 // Have dwmblocks automatically recompile and run when you edit this file in
 // vim with the following line in your vimrc/init.vim:
