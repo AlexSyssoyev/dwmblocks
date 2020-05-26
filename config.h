@@ -7,6 +7,7 @@ static const Block blocks[] = {
 	/* {"",	"crypto",	0,	13}, */
 	//{"",	"torrent",	20,	7},
 	//{"",	"news",		0,	6},
+	 //{"",	"ytmusic",	3,	642},
 	{"",	"mailbox",	180,	12},
 	 {"",	"pacpackages",	10,	8},
 	 {"",	"news"	,	10,	6},
