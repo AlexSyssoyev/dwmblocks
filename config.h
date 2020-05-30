@@ -2,7 +2,6 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	//{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
-//	{"",	"music",	0,	11},
 	//{"",	"pacpackages",	0,	8},
 	/* {"",	"crypto",	0,	13}, */
 	//{"",	"torrent",	20,	7},
@@ -12,7 +11,9 @@ static const Block blocks[] = {
 	 {"",	"pacpackages",	10,	8},
 	 {"",	"news"	,	10,	6},
 	 {"",	"sda6",	10,	14},
+	{"",	"music",	0,	11},
 	 {"",	"disk ~",	10,	14},
+	 {"", 	"nofap", 		18000, 		21},
 	/* {"",	"music",	0,	11}, */
 	/* {"",	"crypto",	0,	13}, */
 	{"",	"toggle mousestate",	0,	14},
