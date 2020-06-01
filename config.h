@@ -7,13 +7,11 @@ static const Block blocks[] = {
 	//{"",	"torrent",	20,	7},
 	//{"",	"news",		0,	6},
 	 //{"",	"ytmusic",	3,	642},
-	 {"",	"sda6",	10,	14},
 	{"",	"music",	0,	11},
-	 {"",	"disk ~",	10,	14},
-	 {"", 	"nofap", 		18000, 		21},
-	{"",	"mailbox",	180,	12},
-	{"",	"pacpackages",	0,	8},
 	{"",	"news",		0,	6},
+	{"",	"mailbox",	180,	12},
+	 {"",	"sda6",	10,	14},
+	 {"", 	"nofap", 		18000, 		21},
 	/* {"",	"crypto",	0,	13}, */
 	{"",	"toggle mousestate",	0,	14},
 	{"",	"toggle audiostate",	0,	15},
@@ -22,11 +20,13 @@ static const Block blocks[] = {
 	/* {"",	"price lbc \"LBRY Token\" 📚",			0,	22}, */
 	/* {"",	"torrent",	20,	7}, */
 	/* {"",	"memory",	10,	14}, */
-	 {"",	"cpu",		10,	18},
+	 {"",	"disk ~",	10,	14},
+	{"",	"pacpackages",	0,	8},
+	/* {"",	"cpu",		10,	18}, */
 	/* {"",	"moonphase",	18000,	17}, */
 	{"",	"weather",	18000,	5},
 	//{"",	"battery | tr \'\n\' \' \'",	5,	3},
-	/* {"",	"nettraf",	1,	16}, */
+	 {"",	"nettraf",	1,	16},
 	{"",	"volume",	0,	10},
 	{"",	"clock",	60,	1},
 	{"",	"internet",	5,	4},
