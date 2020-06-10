@@ -2,19 +2,14 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	//{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
-	//{"",	"pacpackages",	0,	8},
 	/* {"",	"crypto",	0,	13}, */
 	//{"",	"torrent",	20,	7},
-	//{"",	"news",		0,	6},
-	 //{"",	"ytmusic",	3,	642},
 	{"",	"music",	0,	11},
 	{"",	"news",		0,	6},
 	{"",	"mailbox",	180,	12},
 	{"",	"pacpackages",	0,	8},
 	 //{"",	"sda6",	10,	14},
 	 {"", 	"nofap", 		18000, 		21},
-	/* {"",	"crypto",	0,	13}, */
-	//{"",	"toggle mousestate",	0,	14},
 	{"",	"mouseswitch",	0,	14},
 	{"",	"audioout",	0,	15},
 	/* {"",	"price bat \"Basic Attention Token\" 🦁",	0,	20}, */
@@ -27,7 +22,7 @@ static const Block blocks[] = {
 	/* {"",	"moonphase",	18000,	17}, */
 	{"",	"weather",	18000,	5},
 	//{"",	"battery | tr \'\n\' \' \'",	5,	3},
-	/* {"",	"nettraf",	1,	16}, */
+	 {"",	"nettraf",	1,	16},
 	{"",	"volume",	0,	10},
 	{"",	"clock",	60,	1},
 	{"",	"internet",	5,	4},
