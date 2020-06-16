@@ -9,20 +9,20 @@ static const Block blocks[] = {
 	{"",	"mailbox",	180,	12},
 	{"",	"pacpackages",	0,	8},
 	 //{"",	"sda6",	10,	14},
-	 {"", 	"nofap", 		18000, 		21},
-	{"",	"mouseswitch",	0,	14},
-	{"",	"audioout",	0,	15},
 	/* {"",	"price bat \"Basic Attention Token\" 🦁",	0,	20}, */
 	/* {"",	"price btc Bitcoin 💰",				0,	21}, */
 	/* {"",	"price lbc \"LBRY Token\" 📚",			0,	22}, */
 	/* {"",	"torrent",	20,	7}, */
 	/* {"",	"memory",	10,	14}, */
+//	 {"",	"nettraf",	1,	16},
 	 {"",	"disk ~",	10,	14},
 	/* {"",	"cpu",		10,	18}, */
 	/* {"",	"moonphase",	18000,	17}, */
 	{"",	"weather",	18000,	5},
+	 {"", 	"nofap", 		18000, 		21},
 	//{"",	"battery | tr \'\n\' \' \'",	5,	3},
-	 {"",	"nettraf",	1,	16},
+	{"",	"audioout",	0,	13},
+	{"",	"mouseswitch",	0,	7},
 	{"",	"volume",	0,	10},
 	{"",	"clock",	60,	1},
 	{"",	"internet",	5,	4},
