@@ -14,10 +14,10 @@ static const Block blocks[] = {
 	/* {"",	"price lbc \"LBRY Token\" 📚",			0,	22}, */
 	/* {"",	"torrent",	20,	7}, */
 	/* {"",	"memory",	10,	14}, */
-	/* {"",	"nettraf",	1,	16}, */
 	 {"",	"disk ~",	10,	14},
 	/* {"",	"cpu",		10,	18}, */
 	/* {"",	"moonphase",	18000,	17}, */
+	 {"",	"nettraf",	1,	16},
 	{"",	"weather",	18000,	5},
 	 {"", 	"nofap", 		18000, 		21},
 	/*{"",	"battery | tr \'\n\' \' \'",	5,	3}, */
