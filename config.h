@@ -20,7 +20,7 @@ static const Block blocks[] = {
 	/* {"",	"moonphase",	18000,	17}, */
 /*	 {"",	"nettraf",	1,	16}, */
 	{"",	"weather",	18000,	5},
-	 {"", 	"nofap", 		18000, 		21},
+	 {"", 	"nfp", 		18000, 		21},
 	/*{"",	"battery | tr \'\n\' \' \'",	5,	3}, */
 	{"",	"audioout",	0,	13},
 	{"",	"kbselect",	0,	30},
