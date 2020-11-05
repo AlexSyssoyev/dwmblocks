@@ -19,11 +19,11 @@ static const Block blocks[] = {
 	/* {"",	"cpu",		10,	18}, */
 	/* {"",	"moonphase",	18000,	17}, */
 /*	 {"",	"nettraf",	1,	16}, */
-	{"",	"weather",	18000,	5},
+	{"",	"forecast",	18000,	5},
 	 {"", 	"nfp", 		18000, 		21},
 	/*{"",	"battery | tr \'\n\' \' \'",	5,	3}, */
 	{"",	"audioout",	0,	13},
-	{"",	"kbselect",	0,	30},
+	/* {"",	"kbselect",	0,	30}, */
 	{"",	"volume",	0,	10},
 	{"",	"clock",	60,	1},
 	{"",	"internet",	5,	4},
